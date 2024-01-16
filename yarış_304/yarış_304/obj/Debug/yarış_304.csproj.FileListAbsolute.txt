@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\bin\Debug\yarış_304.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\bin\Debug\yarış_304.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\bin\Debug\yarış_304.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla\yarış_304\yarış_304\obj\Debug\yarış_304.pdb
